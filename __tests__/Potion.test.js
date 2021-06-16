@@ -1,4 +1,4 @@
-const { TestWatcher } = require('@jest/core');
+//const { TestWatcher } = require('@jest/core');
 const Potion = require('../lib/Potion.js');
 
 test('creates a health potion object', () => {
